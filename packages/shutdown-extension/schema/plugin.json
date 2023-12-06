@@ -1,0 +1,16 @@
+{
+  "title": "User Menu Bar",
+  "description": "User Menu Bar settings.",
+  "jupyter.lab.toolbars": {
+    "TopBar": [
+      {
+        "name": "shutdown",
+        "command": "jupyterlab-topbar:shutdown",
+        "rank": 160
+      }
+    ]
+  },
+  "properties": {},
+  "additionalProperties": false,
+  "type": "object"
+}
